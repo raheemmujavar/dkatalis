@@ -27,10 +27,6 @@ This is a command-line interface (CLI) application that simulates an ATM system.
    ```bash
    ./start.sh
    ```
-
-3. To Run test cases
-   npm install --dev
-   npm test
    
 
 ## Available Commands
@@ -46,6 +42,7 @@ This is a command-line interface (CLI) application that simulates an ATM system.
 
 Run the tests with:
 ```bash
+npm install --dev
 npm test
 ```
 
